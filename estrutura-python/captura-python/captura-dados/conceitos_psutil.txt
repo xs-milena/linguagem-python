@@ -1,0 +1,6 @@
+PARA CAPTURAR DADOS DE MÁQUINA, O PYTHON USA A BIBLIOTECA psutil
+    - Essa biblioteca recupera informações sobre processos em execução e utilização do sistema em Python
+
+PLATAFORMA CRUZADA
+    - Aplicação Nativa: criada para cada sistema (Android, IOS);
+    - Aplicação em plataforma cruzada: roda em todos os sistemas
